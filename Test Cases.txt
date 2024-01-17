@@ -1,0 +1,46 @@
+17.01.2023:
+
+TEST CASE 1:
+1. 1234567890-> should pass
+2. Change the spliting option for DEC
+3. Change the spliting option for HEX
+4. Change the spliting option for BIN
+
+TEST CASE 2:
+1. 100500-> should pass
+2. Change the spliting option for DEC
+3. Change the spliting option for HEX
+4. Change the spliting option for BIN
+
+TEST CASE 3:
+1. 0-> should pass
+2. Change the spliting option for DEC
+3. Change the spliting option for HEX
+4. Change the spliting option for BIN
+
+TEST CASE 4:
+1. 1234567890123456789-> should pass
+2. Change the spliting option for DEC
+3. Change the spliting option for HEX
+4. Change the spliting option for BIN
+
+TEST CASE 5:
+1. -1234567890-> should pass
+2. Change the spliting option for DEC
+3. Change the spliting option for HEX
+4. Change the spliting option for BIN
+
+TEST CASE 6:
+1. 78509830986093486098309680346803409-> should NOT pass
+
+TEST CASE 7:
+1. 123-> should pass
+2. Change the spliting option for DEC
+3. Change the spliting option for HEX
+4. Change the spliting option for BIN
+
+TEST CASE 8:
+1. -5555-> should pass
+2. Change the spliting option for DEC
+3. Change the spliting option for HEX
+4. Change the spliting option for BIN

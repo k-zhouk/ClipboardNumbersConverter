@@ -1,0 +1,6 @@
+14.01.2023:
+
+FEATURES TO ADD:
+1. Check if a string in the clipboard is a HEX string, including non-well formed (example of the well formed HEX string: 0xabcdef / 0Xabcdef (C, C++, C#, Python),
+0abcdefh/ 0abcdefH (x86 assembler).
+Example of a proper HEX string, but not well-formed: abcdef.
